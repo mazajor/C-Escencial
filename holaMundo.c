@@ -4,7 +4,7 @@
 
 int main() {
 
-    put:("Hola Mundo");
+    puts("Hola Mundo");
 
 return(0);
 }
